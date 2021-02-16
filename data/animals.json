@@ -108,6 +108,16 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "larryy",
+      "species": "monkey",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "11"
     }
   ]
 }
