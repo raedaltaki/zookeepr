@@ -19,7 +19,7 @@ Please visit our completed webpage at:  https://ancient-caverns-88960.herokuapp.
 
 ## Description
 
-Zoo Keepr is a zoo managment application where all zoo employees and animals data are stored and managed
+Zoo Keepr is a zoo management application where all zoo employees and animals data are stored and managed
 
 
 ## Installation
@@ -45,8 +45,8 @@ git clone git@github.com:raedaltaki/zookeepr.git
 
 
 - [express](https://expressjs.com/ "express")<br />
-- [mongoDB](https://www.mongodb.com/ "mongoDB")<br />
-- [mongoose](https://mongoosejs.com/ "mongoose")<br />
+- [JEST](https://jestjs.io/ "JEST")<br />
+
 
 
 ## Screenshots
